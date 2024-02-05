@@ -14,4 +14,4 @@ This project is a Hogwarts House predictor application built with React for the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hogwarts-house-predictor.git
+   git clone https://github.com/Sidharth-06/Sorting-Hat.git
